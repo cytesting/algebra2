@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Algebra Lineal",
+    description: "Clases de Algebra Lineal",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
